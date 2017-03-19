@@ -24,7 +24,7 @@ def rot(text):
 
     return rot13
 
-@app.route('/', methods=['GET', 'POST'])
+@app.route('/rot13', methods=['GET', 'POST'])
 def main():
     text = request.form.get("text")
     translated_text = text
