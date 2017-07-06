@@ -1,6 +1,5 @@
 # ROT 13
-Change the letter inserted for the one thirteen places after it.
+A simple encryptor and decryptor that changes the letter inserted for the one thirteen places after it.
 
 Ex:
-
-```Hello``` -> ```Uryyb```
+`Hello` -> `Uryyb`
