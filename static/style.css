@@ -18,6 +18,8 @@ h1 {
 }
 
 textarea {
-  width: 100%;
+  width: 96%;
   min-height: 200px;
+  padding: 0.8em;
+  font-size: 1.2em ;
 }
